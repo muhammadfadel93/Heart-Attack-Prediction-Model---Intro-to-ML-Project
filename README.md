@@ -2,7 +2,7 @@
 
 
 ## 🔍 Analysis
-[[Click Here](https://medium.com/@muhammadfadel93/heart-attack-detection-using-machine-learning-with-emphasis-on-high-recall-optimization-e62411bbbb0e)](#)
+[[Click Here](https://medium.com/@muhammadfadel93/heart-attack-detection-using-machine-learning-with-emphasis-on-high-recall-optimization-e62411bbbb0e)]
 
 ---
 
@@ -47,9 +47,3 @@ Dataset **"Medicaldataset"** from [Mendeleydataset]((https://data.mendeley.com/d
 Best Model : **Random Forest** with :  
 - **Recall: 98%**  
 - Improvement : **+13% from the baseline model**
-
----
-
-## 📈 Final Model Performance
-
-### 📊 Classification Report
